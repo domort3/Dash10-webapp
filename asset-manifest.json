@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Dash10-webapp/static/css/main.f9feb3b6.css",
-    "main.js": "/Dash10-webapp/static/js/main.e039b29e.js",
-    "index.html": "/Dash10-webapp/index.html",
-    "main.f9feb3b6.css.map": "/Dash10-webapp/static/css/main.f9feb3b6.css.map",
-    "main.e039b29e.js.map": "/Dash10-webapp/static/js/main.e039b29e.js.map"
+    "main.css": "/chatbot/static/css/main.f9feb3b6.css",
+    "main.js": "/chatbot/static/js/main.e039b29e.js",
+    "index.html": "/chatbot/index.html",
+    "main.f9feb3b6.css.map": "/chatbot/static/css/main.f9feb3b6.css.map",
+    "main.e039b29e.js.map": "/chatbot/static/js/main.e039b29e.js.map"
   },
   "entrypoints": [
     "static/css/main.f9feb3b6.css",
