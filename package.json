@@ -2,7 +2,7 @@
   "name": "n8n-chatbot-react",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://domort3.github.io/Dash10-webapp",
+  "homepage": "https://domort3.github.io/chatbot",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
