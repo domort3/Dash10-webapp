@@ -1,15 +1,6 @@
 # n8n Chatbot React App
 
-A beautiful, responsive React chatbot that connects directly to n8n workflows via webhooks, deployed on GitHub Pages.
-
-## 🚀 Features
-
-- **Modern UI**: Clean, responsive chat interface with smooth animations
-- **Direct n8n Integration**: Communicates directly with n8n webhooks (no backend required)
-- **GitHub Pages Ready**: Optimized for static hosting on GitHub Pages
-- **Error Handling**: Comprehensive error handling with user-friendly messages
-- **Real-time Chat**: Instant messaging with typing indicators
-- **Mobile Responsive**: Works perfectly on all device sizes
+A responsive React chatbot that connects directly to n8n workflows via webhooks, deployed on GitHub Pages.
 
 ## 📄 License
 
